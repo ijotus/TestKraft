@@ -1,12 +1,12 @@
 # Created by https://www.gitignore.io/api/unity
 
 ### Unity ###
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
+/Game/[Ll]ibrary/
+/Game//[Tt]emp/
+/Game//[Oo]bj/
+/Game//[Bb]uild/
+/Game//[Bb]uilds/
+/Game//Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
 /.vs/
@@ -45,11 +45,11 @@ ReferenceRemovalProjectHook.cs.meta
 
 *.keystore
 keystore.txt
-Assets/Plugins/APlus Assets Explorer(Free)
-Assets/Plugins/APlus Assets Explorer(Free).meta
+Game/Assets/Plugins/APlus Assets Explorer(Free)
+Game/Assets/Plugins/APlus Assets Explorer(Free).meta
 
-Assets/Plugins/Editor/JetBrains.meta
-Assets/Plugins/Editor/JetBrains/
+Game/Assets/Plugins/Editor/JetBrains.meta
+Game/Assets/Plugins/Editor/JetBrains/
 .idea/
 
 /Assets/StreamingAssets/
